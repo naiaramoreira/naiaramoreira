@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @naiaramoreira. I'm an software engineer.
 - 👀 I’m interested in free software & open source, (free, open, computacional, generative, data science, machine learning)
 - 🌱 I’m currently learning data science and analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 
